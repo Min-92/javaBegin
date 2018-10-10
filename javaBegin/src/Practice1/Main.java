@@ -19,7 +19,6 @@ public class Main {
 		System.out.println(car.getNumCar());
 		System.out.println(bus.getNumBus());
 		
-		System.out.println(10*0.6);
 		
 //		int count = 10;
 //		Vehicle vehicle = new Vehicle(count);

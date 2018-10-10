@@ -9,7 +9,7 @@ public class DoWhileExam {
 		do {
 			//반복할 문장들
 			value = scan.nextInt();
-			System.out.println("입력받은 값 : ");
+			System.out.println("입력받은 값 : " + value);
 		}while(value != 10);
 		
 		System.out.println("반복은 종료!!");
